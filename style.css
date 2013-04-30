@@ -1,0 +1,13 @@
+body {
+	background-color: #222222;
+}
+#canv {
+	width: 500px;
+	height: 500px;
+	border: 1px solid #222222;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -250px;
+	background-color: white;
+}
